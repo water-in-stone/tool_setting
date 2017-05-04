@@ -1,2 +1,2 @@
 # tool_setting
-backup some developer's tool(Webstorm, Sublime Text3 and so on) setting 
+backup setting of my tools, such as WebStorm Sublime Text3 and so on. 
